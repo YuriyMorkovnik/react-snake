@@ -1,0 +1,13 @@
+.root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+}
+
+.wrapper {
+  border: 2px solid black;
+  padding: 1px;
+}
+
