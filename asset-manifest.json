@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-snake/static/css/main.cb9ed7bd.chunk.css",
-    "main.js": "/react-snake/static/js/main.9c6ced73.chunk.js",
-    "main.js.map": "/react-snake/static/js/main.9c6ced73.chunk.js.map",
+    "main.css": "/react-snake/static/css/main.247082ec.chunk.css",
+    "main.js": "/react-snake/static/js/main.ec3d1414.chunk.js",
+    "main.js.map": "/react-snake/static/js/main.ec3d1414.chunk.js.map",
     "runtime~main.js": "/react-snake/static/js/runtime~main.c77650c3.js",
     "runtime~main.js.map": "/react-snake/static/js/runtime~main.c77650c3.js.map",
-    "static/js/2.3cf7d0d9.chunk.js": "/react-snake/static/js/2.3cf7d0d9.chunk.js",
-    "static/js/2.3cf7d0d9.chunk.js.map": "/react-snake/static/js/2.3cf7d0d9.chunk.js.map",
+    "static/js/2.e01d1717.chunk.js": "/react-snake/static/js/2.e01d1717.chunk.js",
+    "static/js/2.e01d1717.chunk.js.map": "/react-snake/static/js/2.e01d1717.chunk.js.map",
     "index.html": "/react-snake/index.html",
-    "precache-manifest.7918fd86368b6f62d69d54d5a8de39c9.js": "/react-snake/precache-manifest.7918fd86368b6f62d69d54d5a8de39c9.js",
+    "precache-manifest.59d1590536f162be30594d52118e5ee8.js": "/react-snake/precache-manifest.59d1590536f162be30594d52118e5ee8.js",
     "service-worker.js": "/react-snake/service-worker.js",
-    "static/css/main.cb9ed7bd.chunk.css.map": "/react-snake/static/css/main.cb9ed7bd.chunk.css.map",
+    "static/css/main.247082ec.chunk.css.map": "/react-snake/static/css/main.247082ec.chunk.css.map",
     "static/media/logo.svg": "/react-snake/static/media/logo.5d5d9eef.svg"
   }
 }
